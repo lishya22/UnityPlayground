@@ -226,10 +226,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  typeOfControl: 0
+  typeOfControl: 1
   speed: 8
   movementType: 0
-  orientToDirection: 0
+  orientToDirection: 1
   lookAxis: 0
 --- !u!50 &1217361704
 Rigidbody2D:
