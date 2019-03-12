@@ -158,8 +158,8 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   happenOnlyOnce: 0
-  filterByTag: 0
-  filterTag: Player
+  filterByTag: 1
+  filterTag: Enemy
   frequency: 1
   eventType: 0
 --- !u!114 &1657224112341557638
